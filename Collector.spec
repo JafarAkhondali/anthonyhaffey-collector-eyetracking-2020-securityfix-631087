@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Collector.py'],
-             pathex=['C:\\Users\\Anthony Haffey\\OneDrive - University of Reading\\Github\\open-collector'],
+             pathex=['C:\\Users\\Anthony Haffey\\OneDrive - University of Reading\\Github\\Collector'],
              binaries=[],
              datas=[('C:\\Program Files\\PsychoPy3\\lib\\site-packages\\eel\\eel.js', 'eel'), ('web', 'web')],
              hiddenimports=['bottle_websocket'],
